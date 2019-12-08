@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056884893907",
+    "firebase_url": "https://octavice-66c8f.firebaseio.com",
+    "project_id": "octavice-66c8f",
+    "storage_bucket": "octavice-66c8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056884893907:android:08a53c951c58a8164fcc26",
+        "android_client_info": {
+          "package_name": "com.example.octavice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056884893907-hl8corplv7g3ramo86ueaep3slrefbji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.octavice",
+            "certificate_hash": "09d7281e79e761d2904249cb186ee8c40282a758"
+          }
+        },
+        {
+          "client_id": "1056884893907-auhad4b2h5o55u7ilhggmde942v71p3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj1ygKvJL48bbhhMJgg99ac1dNEhImzzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056884893907-auhad4b2h5o55u7ilhggmde942v71p3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
